@@ -159,6 +159,4 @@ Never commit your `.env` file. It is already listed in `.gitignore`.
 
 ---
 
-## 📝 License
 
-MIT License — feel free to use, modify, and distribute.
